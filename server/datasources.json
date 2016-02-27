@@ -7,7 +7,7 @@
     "host": "localhost",
     "port": 3306,
     "database": "dlc",
-    "password": "07582231",
+    "password": "xxxxxxxxx",
     "name": "dlc",
     "user": "root",
     "connector": "mysql"
